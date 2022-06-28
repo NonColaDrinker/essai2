@@ -1,0 +1,54 @@
+body {
+    background-image: url("images/bg.jpg.jpg");
+  }
+  .cls {
+      float: right;
+      list-style-type: none;
+      margin: 0;
+      padding: 16px;
+      overflow: hidden;
+      background-color: transparent;
+      color:aquamarine;   
+      padding-top: 2.5%;
+    }
+  .col{
+      color: teal;
+      font-size: large;  
+
+    }
+  li a{
+      text-decoration: none;
+      color: #111111;
+      padding:  16px;
+      padding-left: 1%;
+      display: block;
+      text-align: center;
+  }
+  li a:hover{
+      background-color: #111111;
+      color: white;
+      list-style-position: inside;
+  }
+  li{
+      float:right;
+  }
+  a:link{
+      text-decoration: none;
+      color: #111111;
+  }
+  a{
+      text-decoration: none;
+      color: #111111;
+  }
+  ul{
+      list-style-type: none;
+      overflow: hidden;
+      background-color: transparent;
+      padding-top: 2.5%;
+      padding-right: 2.5%;
+      word-spacing: 20px;
+  }
+  .logo{
+      padding-top: 2.5%;
+  }
+  
